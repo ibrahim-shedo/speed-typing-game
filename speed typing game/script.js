@@ -46,6 +46,8 @@ async function renderNewQuote(){
     startTimer()
 }
 
+renderNewQuote()
+
 
 let startTime
 function startTimer() {
