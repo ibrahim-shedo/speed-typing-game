@@ -49,7 +49,7 @@ body, .quote-input{
 }
 
 .correct{
-    color: blue ;
+    color: green;
 }
 .incorrect{
     color: red;
